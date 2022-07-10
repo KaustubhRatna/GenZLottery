@@ -1,0 +1,36 @@
+.container {
+  padding: 0 2rem;
+ ;
+}
+
+.main {
+  background-color: purple;
+background-image: url(https://media.discordapp.net/attachments/826420839712292919/995278884356509766/unknown.png);
+min-height: 95vh;  
+
+}
+.main h1{
+  font-size: 3em;
+  font-weight: bold;
+  color: rgb(8, 8, 8); 
+ 
+}
+.card {
+  background-color: green;
+}
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+
