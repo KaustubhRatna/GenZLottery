@@ -1,4 +1,4 @@
-# EthereumLottery
+# GenZLottery
 Lottery game deployed on the ethereum blockchain
 
 ## Working
@@ -20,7 +20,7 @@ Lottery game deployed on the ethereum blockchain
 ### Host a lottery
   - Download source code from this repository
 
-    `git clone www.github.com/AbP-sys/EthereumLottery`
+    `git clone https://github.com/RetroDevan/GenZLottery.git`
   - Install [brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
 
     #### For local development:
